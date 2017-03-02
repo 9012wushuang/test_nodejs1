@@ -1,0 +1,24 @@
+{
+  "name": "bifenghuitestnodejs1",
+  "version": "1.0.0",
+  "description": "test nodejs1",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifenghui/test_nodejs1.git"
+  },
+  "keywords": [
+    "test",
+    "nodejs1"
+  ],
+  "author": "bifenghui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bifenghui/test_nodejs1/issues"
+  },
+  "homepage": "https://github.com/bifenghui/test_nodejs1#readme"
+}
